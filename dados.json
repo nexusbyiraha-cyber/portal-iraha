@@ -1,0 +1,66 @@
+{
+  "atualizado": "2026-10-08",
+  "avisos": [
+    {
+      "id": "boas-vindas",
+      "titulo": "Bem-vindos ao portal do escritório",
+      "texto": "Aqui ficam os comunicados da equipe, os atalhos para os sistemas que usamos e as ferramentas de cálculo do dia a dia. Use a busca no topo para achar um sistema ou documento.",
+      "prioridade": "normal",
+      "ate": null,
+      "criadoEm": "2026-10-08"
+    }
+  ],
+  "sistemas": [
+    {
+      "id": "auntentique",
+      "nome": "Auntentique",
+      "descricao": "Assinar Documentos",
+      "categoria": "",
+      "url": "https://claude.ai/artifact/15NCqStG3uZo9G9tx63j9f"
+    },
+    {
+      "id": "calc-difal-st",
+      "nome": "Calc DIFAL/ST",
+      "descricao": "DIFAL/ST",
+      "categoria": "Fiscal",
+      "url": "https://claude.ai/artifact/BZ1m3usjvjVaKV1oqh7mVZ"
+    },
+    {
+      "id": "certificados-vencidos",
+      "nome": "Certificados Vencidos - Removedor",
+      "descricao": "Remove Certificados Vencidos",
+      "categoria": "",
+      "url": "https://drive.google.com/file/d/1q4UPrKDglI0qMXxyejLWcHeGvAf6aKaT/view?usp=drive_link"
+    },
+    {
+      "id": "dominio-sistemas",
+      "nome": "Domínio Sistemas",
+      "descricao": "Instalação e Atualização",
+      "categoria": "Geral",
+      "url": "https://download.dominiosistemas.com.br/"
+    },
+    {
+      "id": "dropbox",
+      "nome": "Dropbox",
+      "descricao": "Acesso a rede",
+      "categoria": "Geral",
+      "url": "https://drive.google.com/file/d/1cHYiqMrvJvULth6Pzjdcq-2m-R9jTiCI/view?usp=drive_link"
+    },
+    {
+      "id": "nfse-nacional",
+      "nome": "NFSe Nacional",
+      "descricao": "NFSe Nacional",
+      "categoria": "Fiscal",
+      "url": "https://chromewebstore.google.com/detail/enehmclajcndmgefbmjhecccoegbdgea?utm_source=item-share-cb"
+    }
+  ],
+  "documentos": [
+    {
+      "id": "importacao-notas-erps",
+      "nome": "Importação Notas - ERP´s",
+      "descricao": "",
+      "tipo": "PDF",
+      "url": "https://drive.google.com/file/d/1br3vlEM84E8YEtR1KlXPY4ezt-XWyo51/view?usp=drive_link"
+    }
+  ]
+}

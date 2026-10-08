@@ -1,0 +1,7 @@
+Coloque nesta pasta os arquivos que a equipe deve baixar pelo portal
+(.bat, .zip, .rar, .pdf, planilhas etc. — até 100 MB cada).
+
+Depois, cadastre o arquivo no dados.json usando o campo "arquivo", por exemplo:
+  "arquivo": "arquivos/mapear-rede.bat"
+
+Dica: use nomes sem espaços e sem acentos (ex.: mapear-rede.bat).
