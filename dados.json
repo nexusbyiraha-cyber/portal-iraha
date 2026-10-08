@@ -12,11 +12,11 @@
   ],
   "sistemas": [
     {
-      "id": "auntentique",
-      "nome": "Auntentique",
+      "id": "autentique",
+      "nome": "Autentique",
       "descricao": "Assinar Documentos",
       "categoria": "",
-      "url": "https://claude.ai/artifact/15NCqStG3uZo9G9tx63j9f"
+      "url": "https://www.autentique.com.br/"
     },
     {
       "id": "calc-difal-st",
